@@ -1,0 +1,3 @@
+/home/mazen/CLionProjects/lexical analyzer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mazen/CLionProjects/lexical analyzer/cmake-build-debug/CMakeFiles/lexical_analyzer.dir
+/home/mazen/CLionProjects/lexical analyzer/cmake-build-debug/CMakeFiles/edit_cache.dir

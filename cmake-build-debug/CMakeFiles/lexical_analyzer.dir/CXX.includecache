@@ -1,0 +1,128 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mazen/CLionProjects/lexical analyzer/DFA.cpp
+DFA.h
+/home/mazen/CLionProjects/lexical analyzer/DFA.h
+
+/home/mazen/CLionProjects/lexical analyzer/DFA.h
+Node.h
+/home/mazen/CLionProjects/lexical analyzer/Node.h
+
+/home/mazen/CLionProjects/lexical analyzer/DFAAndTokens.cpp
+DFAAndTokens.h
+/home/mazen/CLionProjects/lexical analyzer/DFAAndTokens.h
+MinDFA.h
+/home/mazen/CLionProjects/lexical analyzer/MinDFA.h
+
+/home/mazen/CLionProjects/lexical analyzer/DFAAndTokens.h
+Node.h
+/home/mazen/CLionProjects/lexical analyzer/Node.h
+NonFiniteAutomata.h
+/home/mazen/CLionProjects/lexical analyzer/NonFiniteAutomata.h
+
+/home/mazen/CLionProjects/lexical analyzer/MinDFA.cpp
+MinDFA.h
+/home/mazen/CLionProjects/lexical analyzer/MinDFA.h
+
+/home/mazen/CLionProjects/lexical analyzer/MinDFA.h
+Node.h
+/home/mazen/CLionProjects/lexical analyzer/Node.h
+NFAToDFA.h
+/home/mazen/CLionProjects/lexical analyzer/NFAToDFA.h
+
+/home/mazen/CLionProjects/lexical analyzer/NFARules.cpp
+algorithm
+-
+iostream
+-
+NFARules.h
+/home/mazen/CLionProjects/lexical analyzer/NFARules.h
+
+/home/mazen/CLionProjects/lexical analyzer/NFARules.h
+Node.h
+/home/mazen/CLionProjects/lexical analyzer/Node.h
+
+/home/mazen/CLionProjects/lexical analyzer/NFAToDFA.cpp
+iostream
+-
+NFAToDFA.h
+/home/mazen/CLionProjects/lexical analyzer/NFAToDFA.h
+
+/home/mazen/CLionProjects/lexical analyzer/NFAToDFA.h
+Node.h
+/home/mazen/CLionProjects/lexical analyzer/Node.h
+NonFiniteAutomata.h
+/home/mazen/CLionProjects/lexical analyzer/NonFiniteAutomata.h
+DFA.h
+/home/mazen/CLionProjects/lexical analyzer/DFA.h
+
+/home/mazen/CLionProjects/lexical analyzer/Node.cpp
+Node.h
+/home/mazen/CLionProjects/lexical analyzer/Node.h
+
+/home/mazen/CLionProjects/lexical analyzer/Node.h
+vector
+-
+string
+-
+
+/home/mazen/CLionProjects/lexical analyzer/NonFiniteAutomata.cpp
+fstream
+-
+iostream
+-
+algorithm
+-
+sstream
+-
+bits/stdc++.h
+-
+NonFiniteAutomata.h
+/home/mazen/CLionProjects/lexical analyzer/NonFiniteAutomata.h
+
+/home/mazen/CLionProjects/lexical analyzer/NonFiniteAutomata.h
+Node.h
+/home/mazen/CLionProjects/lexical analyzer/Node.h
+NFARules.h
+/home/mazen/CLionProjects/lexical analyzer/NFARules.h
+map
+-
+
+/home/mazen/CLionProjects/lexical analyzer/Symbol_table_builder.cpp
+Symbol_table_builder.h
+/home/mazen/CLionProjects/lexical analyzer/Symbol_table_builder.h
+iostream
+-
+bits/stdc++.h
+-
+Node.h
+/home/mazen/CLionProjects/lexical analyzer/Node.h
+DFAAndTokens.h
+/home/mazen/CLionProjects/lexical analyzer/DFAAndTokens.h
+
+/home/mazen/CLionProjects/lexical analyzer/Symbol_table_builder.h
+bits/stdc++.h
+-
+Node.h
+/home/mazen/CLionProjects/lexical analyzer/Node.h
+DFAAndTokens.h
+/home/mazen/CLionProjects/lexical analyzer/DFAAndTokens.h
+
+/home/mazen/CLionProjects/lexical analyzer/main.cpp
+iostream
+-
+NonFiniteAutomata.h
+/home/mazen/CLionProjects/lexical analyzer/NonFiniteAutomata.h
+DFAAndTokens.h
+/home/mazen/CLionProjects/lexical analyzer/DFAAndTokens.h
+MinDFA.h
+/home/mazen/CLionProjects/lexical analyzer/MinDFA.h
+Symbol_table_builder.h
+/home/mazen/CLionProjects/lexical analyzer/Symbol_table_builder.h
+
